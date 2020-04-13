@@ -1,0 +1,60 @@
+2020-04-12 11:02:18,928 [main] INFO StepDefinition - Chrome Opened
+2020-04-12 11:02:22,028 [main] INFO StepDefinition - Valid Credentials Entered
+2020-04-12 11:02:25,580 [main] INFO StepDefinition - clicked on Dogs Menu
+2020-04-12 11:02:27,237 [main] INFO StepDefinition - Selected a product
+2020-04-12 11:02:28,876 [main] INFO StepDefinition - selected product added to card
+2020-04-12 11:02:28,888 [main] INFO StepDefinition - Processing Payment
+2020-04-12 11:02:32,709 [main] INFO StepDefinition - Payment Done
+2020-04-12 11:02:34,667 [main] INFO StepDefinition - Returned to Main Menu
+2020-04-12 11:02:36,736 [main] INFO StepDefinition - Signed Out
+2020-04-12 11:02:39,030 [main] INFO StepDefinition - Browser Closed
+2020-04-12 11:02:51,933 [main] INFO StepDefinition - Chrome Opened
+2020-04-12 11:02:54,063 [main] INFO StepDefinition - Invalid Credentials Entered
+2020-04-12 11:02:55,762 [main] INFO StepDefinition - LogOut failed for Invalid Credentials
+2020-04-12 11:02:56,562 [main] INFO StepDefinition - Screenshot taken for Invalid credentials
+2020-04-12 11:02:59,045 [main] INFO StepDefinition - Browser Closed
+2020-04-12 11:03:11,168 [main] INFO StepDefinition - Chrome Opened
+2020-04-12 11:03:12,893 [main] INFO StepDefinition - Valid Credentials Entered
+2020-04-12 11:03:16,550 [main] INFO StepDefinition - clicked on Dogs Menu
+2020-04-12 11:03:18,468 [main] INFO StepDefinition - Selected a product
+2020-04-12 11:03:20,380 [main] INFO StepDefinition - selected product added to card
+2020-04-12 11:03:25,551 [main] INFO StepDefinition - Item from Birds menu added to Cart
+2020-04-12 11:03:30,992 [main] INFO StepDefinition - Item from Fish menu added to Cart
+2020-04-12 11:03:31,000 [main] INFO StepDefinition - Processing Payment
+2020-04-12 11:03:35,795 [main] INFO StepDefinition - Payment Done
+2020-04-12 11:03:37,525 [main] INFO StepDefinition - Returned to Main Menu
+2020-04-12 11:03:39,495 [main] INFO StepDefinition - Signed Out
+2020-04-12 11:03:41,962 [main] INFO StepDefinition - Browser Closed
+2020-04-12 11:03:56,480 [main] INFO StepDefinition - Chrome Opened
+2020-04-12 11:03:59,248 [main] INFO StepDefinition - Valid Credentials Entered
+2020-04-12 11:04:03,327 [main] INFO StepDefinition - Item:persian Searched
+2020-04-12 11:04:05,803 [main] INFO StepDefinition - Item : 'Persian' from Search result added to Cart
+2020-04-12 11:04:05,806 [main] INFO StepDefinition - Processing Payment
+2020-04-12 11:04:10,200 [main] INFO StepDefinition - Payment Done
+2020-04-12 11:04:11,908 [main] INFO StepDefinition - Returned to Main Menu
+2020-04-12 11:04:13,724 [main] INFO StepDefinition - Signed Out
+2020-04-12 11:04:15,955 [main] INFO StepDefinition - Browser Closed
+2020-04-13 09:40:04,017 [main] INFO StepDefinition - Chrome Opened
+2020-04-13 09:40:06,564 [main] INFO StepDefinition - Valid Credentials Entered
+2020-04-13 09:40:09,341 [main] INFO StepDefinition - clicked on Dogs Menu
+2020-04-13 09:40:10,641 [main] INFO StepDefinition - Selected a product
+2020-04-13 09:40:11,996 [main] INFO StepDefinition - selected product added to card
+2020-04-13 09:40:12,002 [main] INFO StepDefinition - Processing Payment
+2020-04-13 09:40:15,155 [main] INFO StepDefinition - Payment Done
+2020-04-13 09:40:16,510 [main] INFO StepDefinition - Returned to Main Menu
+2020-04-13 09:40:18,048 [main] INFO StepDefinition - Signed Out
+2020-04-13 09:40:20,163 [main] INFO StepDefinition - Browser Closed
+2020-04-13 10:55:39,856 [main] INFO StepDefinition - Chrome Opened
+2020-04-13 12:03:14,157 [main] INFO StepDefinition - Chrome Opened
+2020-04-13 12:05:24,671 [main] INFO StepDefinition - Chrome Opened
+2020-04-13 12:05:27,372 [main] INFO StepDefinition - Valid Credentials Entered
+2020-04-13 12:05:30,620 [main] INFO StepDefinition - clicked on Dogs Menu
+2020-04-13 12:05:32,632 [main] INFO StepDefinition - Selected a product
+2020-04-13 12:05:34,012 [main] INFO StepDefinition - selected product added to card
+2020-04-13 12:05:34,015 [main] INFO StepDefinition - Processing Payment
+2020-04-13 12:07:59,679 [main] INFO StepDefinition - Chrome Opened
+2020-04-13 12:08:02,057 [main] INFO StepDefinition - Valid Credentials Entered
+2020-04-13 12:08:05,054 [main] INFO StepDefinition - clicked on Dogs Menu
+2020-04-13 12:08:06,416 [main] INFO StepDefinition - Selected a product
+2020-04-13 12:08:07,536 [main] INFO StepDefinition - selected product added to card
+2020-04-13 12:08:07,544 [main] INFO StepDefinition - Processing Payment
